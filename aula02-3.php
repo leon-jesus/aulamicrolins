@@ -3,10 +3,10 @@
 		<meta charset="UTF-8">
 		<title>Formatação de Texto e parágrafo</title>
 	</head>	
-	<body bgcolor="#000000" text="#ffffff" link="#ff0000" vlink=#ff00ff">
+	<body bgcolor="#000000" text="#00ffff" link="#ff0000" vlink="#0000ff">
 		<font face="comic sans ms" size=5 color="#ffff00">
 		<p align="left">
-		O <b>Brasil</b> será representado por apenas quatro pessoas na cerimônia de abertura dos <i>Jogos Olímpicos de Tóquio</i>, <u>amanhã (23), a partir das 8 horas.</u><br> A cúpula do <b><i><u><s>Comitê Olímpico do Brasil</b></i></u></s> havia decidido, pela manhã do <sup>Japão</sub>, que apenas os <sub>porta-bandeiras</sub> e o chefe da missão estariam no evento. Mas foi constatada a necessidade de alguém que fizesse a interlocução entre os brasileiros e os organizadores. Assim, um oficial administrativo foi integrado à diminuta delegação....
+		Registros históricos apontam que o primeiro carro surgiu em meados de 1678 e foi desenvolvido por um padre belga chamado Ferdinand Verbiest.<p> O padre teria feito o primeiro veículo terrestre, movido a vapor, para o imperador da China.<br> Mas, como o modelo era “primário” e movido a vapor, o padre não foi considerado, exatamente, o inventor do carro.<p>
 		<br>
 		X<sup>2</sup>+Y<sup>2</sup>=0
 		</p>
